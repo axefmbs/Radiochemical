@@ -1,0 +1,1 @@
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl00_lnkResult" title="Carbon-14 Handling Precautions" href="http://www.perkinelmer.com/CMSResources/Images/44-130686GDE_Carbon_14_FINAL.pdf">Carbon-14 Handling Precautions</a>

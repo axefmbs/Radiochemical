@@ -1,0 +1,1391 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_ctl00_ctl00_Head1"><title>
+	Search Results | PerkinElmer
+</title><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><meta property="og:type" content="website" /><meta property="og:site_name" content="PerkinElmer Inc." /><meta name="msvalidate.01" content="1FA3BF84E2153514247F5817DA0E0691" /><link href="https://plus.google.com/117125523810365886612" rel="publisher" /><link rel="stylesheet" type="text/css" media="screen" href="/HttpCombine.ashx?keys=a.b.c.d.e.j&restype=css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/Resources/css/print.css" /><link rel="Shortcut Icon" href="/Resources/images/favicon.ico" type="image/x-icon" />
+    <meta name="og:url" content="http://www.perkinelmer.com/search/Search/N/114 33 35 185 134 160/Ntt/Handling Precautions/Ne/15/Exp/off/previousText/Handling Precautions" /><meta name="robots" content="noindex,follow" /><meta name="og:description" content="We provide technology, services and solutions for applications such as environmental monitoring, food safety, clinical diagnostics and biomedical research." /><meta name="og:image" content="http://www.perkinelmer.com/resources/images/PerkinElmer_logo_128.jpg" /></head>
+<body onload="load()">
+    <script type="text/javascript">
+        var WRInitTime = (new Date()).getTime();
+    </script>
+    <form name="aspnetForm" method="post" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="ctl00_ctl00_ctl00_ScriptManager1_HiddenField" id="ctl00_ctl00_ctl00_ScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDgwMDYwOTQPZBYCZg9kFgJmD2QWAmYPZBYEAgEPZBYCAgkPFgQeBFRleHQFWzxsaW5rIHJlbD0nc3R5bGVzaGVldCcgdHlwZT0ndGV4dC9jc3MnIG1lZGlhPSdzY3JlZW4nIGhyZWY9Jy9SZXNvdXJjZXMvY3NzL2dsb2JhbF9jbi5jc3MnLz4eB1Zpc2libGVoZAIDD2QWAgIDD2QWBAIBD2QWCmYPZBYOAgMPZBYCAgMPDxYCHgtOYXZpZ2F0ZVVybAXIAWh0dHA6Ly9zaG9wLnBlcmtpbmVsbWVyLmNvbS9NeSUyMEFjY291bnQvU2ltcGxlTG9naW4uaHRtP1NpdGVNb2RlPUNvcnAmUmVkaXJlY3RQb3N0aW5nPXNlYXJjaCUyZlNlYXJjaC5hc3B4JTNmTiUzZDExNCUyNk50dCUzZEhhbmRsaW5nJTJiUHJlY2F1dGlvbnMlMjZFeHAlM2RvZmYlMjZwcmV2aW91c1RleHQlM2RIYW5kbGluZyUyYlByZWNhdXRpb25zZGQCBQ8WAh8BaGQCCQ8WAh8BaGQCDQ8WAh8BaGQCDw9kFgQCBQ8WAh4JaW5uZXJodG1sZWQCBw8PFgQfAgXIAWh0dHA6Ly9zaG9wLnBlcmtpbmVsbWVyLmNvbS9NeSUyMEFjY291bnQvU2ltcGxlTG9naW4uaHRtP1NpdGVNb2RlPUNvcnAmUmVkaXJlY3RQb3N0aW5nPXNlYXJjaCUyZlNlYXJjaC5hc3B4JTNmTiUzZDExNCUyNk50dCUzZEhhbmRsaW5nJTJiUHJlY2F1dGlvbnMlMjZFeHAlM2RvZmYlMjZwcmV2aW91c1RleHQlM2RIYW5kbGluZyUyYlByZWNhdXRpb25zHwAFEzxzcGFuPkxPRyBJTjwvc3Bhbj5kZAIRDxYCHwFoFgICAw8PFgIfAgUcL0Fib3V0VXMvQ29udGFjdFVzL0NvbnRhY3RVc2RkAhMPZBYCAgEPDxYEHwAFE1Nob3BwaW5nIENlbnRlciAoMCkfAgUbaHR0cDovL3Nob3AucGVya2luZWxtZXIuY29tZGQCAQ8PFgIfAgUOL2RlZmF1bHQueGh0bWxkZAIJDxYCHwFoZAIODw8WAh8CBRtodHRwOi8vc2hvcC5wZXJraW5lbG1lci5jb21kZAIPD2QWBGYPDxYCHwAFEUVOVEVSIFNFQVJDSCBURVJNFgIeCW9ua2V5ZG93bgVWQ2hlY2tLZXlDb2RlKGV2ZW50LCdjdGwwMF9jdGwwMF9jdGwwMF9wYWdlQ29udGVudF9oZWFkZXJDb250cm9sX3NpdGVTZWFyY2hfYnRuU3VibWl0JylkAgEPFgIeC1NlcnZpY2VQYXRoBR0vd2Vic2VydmljZXMvYXV0b3N1Z2dlc3QuYXNteGQCAw9kFgICAQ9kFggCAQ9kFgICAg9kFgICBQ8WAh4LXyFJdGVtQ291bnQCAhYEAgEPZBYCAgMPFgIfBgIBZAICD2QWAgIDDxYCHwYCBWQCAw9kFgICAw8WAh8ABZ8DPHNwYW4gY2xhc3M9J3N0X3NoYXJldGhpcycgc3RfdGl0bGUgPSAnU2VhcmNoIFJlc3VsdHMgfCBQZXJraW5FbG1lcicgZGlzcGxheVRleHQ9J1NIQVJFJz48L3NwYW4+PHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPnZhciBzd2l0Y2hUbzV4PXRydWU7PC9zY3JpcHQ+PHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnIHNyYz0naHR0cDovL3cuc2hhcmV0aGlzLmNvbS9idXR0b24vYnV0dG9ucy5qcyc+PC9zY3JpcHQ+PHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPnN0TGlnaHQub3B0aW9ucyh7cHVibGlzaGVyOiAnYzJhYTFiZWEtMGFmNC00MmVhLTgyN2UtMjgyYWEzMDA1NGNiJyxvbmhvdmVyOmZhbHNlLCB0eXBlOid3ZWJzaXRlJywgZW1iZWRzOnRydWUsIHRyYWNraW5nOidnb29nbGUnfSk7IDwvc2NyaXB0PmQCBw9kFgZmDxAPFgQfAAUZU2VhcmNoIHdpdGhpbiB0aGUgcmVzdWx0cx4HQ2hlY2tlZGhkZGRkAgEPDxYCHwAFDFNFQVJDSCBBR0FJThYGHwQFWkNoZWNrS2V5Q29kZShldmVudCwnY3RsMDBfY3RsMDBfY3RsMDBfcGFnZUNvbnRlbnRfY21zQ29udGVudF9kZWZhdWx0X3NlYXJjaEJhcl9idG5TdWJtaXQnKR4Hb25jbGljawV2amF2YXNjcmlwdDpyZXR1cm4gUmVtb3ZlVGV4dCgnU0VBUkNIIEFHQUlOJywnY3RsMDBfY3RsMDBfY3RsMDBfcGFnZUNvbnRlbnRfY21zQ29udGVudF9kZWZhdWx0X3NlYXJjaEJhcl90eHRTZWFyY2hOdHQnKR4Gb25ibHVyBXZqYXZhc2NyaXB0OnJldHVybiBJbnNlcnRUZXh0KCdTRUFSQ0ggQUdBSU4nLCdjdGwwMF9jdGwwMF9jdGwwMF9wYWdlQ29udGVudF9jbXNDb250ZW50X2RlZmF1bHRfc2VhcmNoQmFyX3R4dFNlYXJjaE50dCcpZAICDxYCHwUFHS93ZWJzZXJ2aWNlcy9hdXRvc3VnZ2VzdC5hc214ZAIND2QWDgIFD2QWAgIBDxYCHwAF9AFZb3UgU2VhcmNoZWQgRm9yOiZuYnNwOyZuYnNwOzxzcGFuPkhhbmRsaW5nIFByZWNhdXRpb25zPC9zcGFuPjxici8+V2l0aGluOiZuYnNwOyZuYnNwOzxzcGFuPkd1aWRlPC9zcGFuPjxhIGhyZWY9J2h0dHA6Ly93d3cucGVya2luZWxtZXIuY29tL3NlYXJjaC9TZWFyY2guYXNweD9OPTAmTnR0PUhhbmRsaW5nK1ByZWNhdXRpb25zJkV4cD1vZmYmcHJldmlvdXNUZXh0PUhhbmRsaW5nK1ByZWNhdXRpb25zJz4gKHJlbW92ZSk8L2E+ZAIHDxAPFgQfAAURU2hvdyBQcmljaW5nIEluZm8fAWgWAh8IBSB1cGRhdGVVcmxBZnRlckNoYW5nZSh0aGlzLCAnUHInKWRkZAIJDxAPFgQfB2gfAAUOU2hvdyBTdW1tYXJpZXNkZGRkAg8PZBYGAgEPDxYEHgdFbmFibGVkaB8BaGRkAgMPFgIfAAVGPGxpPjxzcGFuIGNsYXNzPSJvbiIgc3R5bGU9ImZvbnQtd2VpZ2h0OmJvbGQ7Y29sb3I6IzMzMyI+MTwvc3Bhbj48L2xpPmQCBQ8PFggfAgV8aHR0cDovL3d3dy5wZXJraW5lbG1lci5jb20vc2VhcmNoL1NlYXJjaC5hc3B4P049MTE0Jk50dD1IYW5kbGluZytQcmVjYXV0aW9ucyZObz0yNSZFeHA9b2ZmJnByZXZpb3VzVGV4dD1IYW5kbGluZytQcmVjYXV0aW9ucx8ABQROZXh0HwpoHwFoZGQCEw8WAh8GAhIWJGYPZBYEAgEPDxYEHwAFHkNhcmJvbi0xNCBIYW5kbGluZyBQcmVjYXV0aW9ucx8CBU9odHRwOi8vd3d3LnBlcmtpbmVsbWVyLmNvbS9DTVNSZXNvdXJjZXMvSW1hZ2VzLzQ0LTEzMDY4NkdERV9DYXJib25fMTRfRklOQUwucGRmZGQCBQ8WAh8BaGQCAQ9kFgQCAQ8PFgQfAAUgQ2hyb21pdW0tNTEgSGFuZGxpbmcgUHJlY2F1dGlvbnMfAgVRaHR0cDovL3d3dy5wZXJraW5lbG1lci5jb20vQ01TUmVzb3VyY2VzL0ltYWdlcy80NC0xMzA2ODdHREVfQ2hyb21pdW1fNTFfRklOQUwucGRmZGQCBQ8WAh8BaGQCAg9kFgQCAQ8PFgQfAAUcVHJpdGl1bSBIYW5kbGluZyBQcmVjYXV0aW9ucx8CBVlodHRwOi8vd3d3LnBlcmtpbmVsbWVyLmNvbS9DTVNSZXNvdXJjZXMvSW1hZ2VzLzQ0LTczNDA4R0RFX1RyaXRpdW1IYW5kbGluZ1ByZWNhdXRpb25zLnBkZmRkAgUPFgIfAWhkAgMPZBYEAgEPDxYEHwAFIFJ1YmlkaXVtLTg2IEhhbmRsaW5nIFByZWNhdXRpb25zHwIFSWh0dHA6Ly93d3cucGVya2luZWxtZXIuY29tL0NNU1Jlc291cmNlcy9JbWFnZXMvNDQtNzM5OTdUQ0hfUnViaWRpdW04Ni5wZGZkZAIFDxYCHwFoZAIED2QWBAIBDw8WBB8ABR9Jb2RpbmUtMTMxIEhhbmRsaW5nIFByZWNhdXRpb25zHwIFSGh0dHA6Ly93d3cucGVya2luZWxtZXIuY29tL0NNU1Jlc291cmNlcy9JbWFnZXMvNDQtNzM5MjBUQ0hfSW9kaW5lMTMxLnBkZmRkAgUPFgIfAWhkAgUPZBYEAgEPDxYEHwAFIlBob3NwaG9ydXMtMzMgSGFuZGxpbmcgUHJlY2F1dGlvbnMfAgVLaHR0cDovL3d3dy5wZXJraW5lbG1lci5jb20vQ01TUmVzb3VyY2VzL0ltYWdlcy80NC03Mzk5NVRDSF9QaG9zcGhvcnVzMzMucGRmZGQCBQ8WAh8BaGQCBg9kFgQCAQ8PFgQfAAUeWXR0cml1bSA5MCBTYWZlIEhhbmRsaW5nIEd1aWRlHwIFSGh0dHA6Ly93d3cucGVya2luZWxtZXIuY29tL0NNU1Jlc291cmNlcy9JbWFnZXMvNDQtNzQwMDF0Y2hfeXR0cml1bTkwLnBkZmRkAgUPFgIfAWhkAgcPZBYEAgEPDxYEHwAFHElyb24tNTkgSGFuZGxpbmcgUHJlY2F1dGlvbnMfAgVFaHR0cDovL3d3dy5wZXJraW5lbG1lci5jb20vQ01TUmVzb3VyY2VzL0ltYWdlcy80NC03MzkyMlRDSF9Jcm9uNTkucGRmZGQCBQ8WAh8BaGQCCA9kFgQCAQ8PFgQfAAUeU29kaXVtLTIyIEhhbmRsaW5nIFByZWNhdXRpb25zHwIFR2h0dHA6Ly93d3cucGVya2luZWxtZXIuY29tL0NNU1Jlc291cmNlcy9JbWFnZXMvNDQtNzM5OTlUQ0hfU29kaXVtMjIucGRmZGQCBQ8WAh8BaGQCCQ9kFgQCAQ8PFgQfAAUcSXJvbi01NSBIYW5kbGluZyBQcmVjYXV0aW9ucx8CBUVodHRwOi8vd3d3LnBlcmtpbmVsbWVyLmNvbS9DTVNSZXNvdXJjZXMvSW1hZ2VzLzQ0LTczOTIxVENIX0lyb241NS5wZGZkZAIFDxYCHwFoZAIKD2QWBAIBDw8WBB8ABR9Jb2RpbmUtMTI1IEhhbmRsaW5nIFByZWNhdXRpb25zHwIFSGh0dHA6Ly93d3cucGVya2luZWxtZXIuY29tL0NNU1Jlc291cmNlcy9JbWFnZXMvNDQtNzM5MTlUQ0hfSW9kaW5lMTI1LnBkZmRkAgUPFgIfAWhkAgsPZBYEAgEPDxYEHwAFHlN1bGZ1ci0zNSBIYW5kbGluZyBQcmVjYXV0aW9ucx8CBUdodHRwOi8vd3d3LnBlcmtpbmVsbWVyLmNvbS9DTVNSZXNvdXJjZXMvSW1hZ2VzLzQ0LTc0MDAwVENIX1N1bGZ1cjM1LnBkZmRkAgUPFgIfAWhkAgwPZBYEAgEPDxYEHwAFH0NhbGNpdW0tNDUgSGFuZGxpbmcgUHJlY2F1dGlvbnMfAgVIaHR0cDovL3d3dy5wZXJraW5lbG1lci5jb20vQ01TUmVzb3VyY2VzL0ltYWdlcy80NC03MzkwN1RDSF9DYWxjaXVtNDUucGRmZGQCBQ8WAh8BaGQCDQ9kFgQCAQ8PFgQfAAUiUGhvc3Bob3J1cy0zMiBIYW5kbGluZyBQcmVjYXV0aW9ucx8CBUtodHRwOi8vd3d3LnBlcmtpbmVsbWVyLmNvbS9DTVNSZXNvdXJjZXMvSW1hZ2VzLzQ0LTczOTk0VENIX1Bob3NwaG9ydXMzMi5wZGZkZAIFDxYCHwFoZAIOD2QWBAIBDw8WBB8ABRwwMDcwMjdDXzAxIEdERSBMdXRldGl1bS5pbmRkHwIFSmh0dHA6Ly93d3cucGVya2luZWxtZXIuY29tL0NNU1Jlc291cmNlcy9JbWFnZXMvNDQtNzM5NTF0Y2hfbHV0ZXRpdW0xNzcucGRmZGQCBQ8WAh8BaGQCDw9kFgQCAQ8PFgQfAAUhTWFuZ2FuZXNlLTU0IEhhbmRsaW5nIFByZWNhdXRpb25zHwIFSmh0dHA6Ly93d3cucGVya2luZWxtZXIuY29tL0NNU1Jlc291cmNlcy9JbWFnZXMvNDQtNzM5NTJUQ0hfTWFuZ2FuZXNlNTQucGRmZGQCBQ8WAh8BaGQCEA9kFgQCAQ8PFgQfAAUcQ2xhcnVzIDUwMCBHQyBIYXJkd2FyZSBHdWlkZR8CBVJodHRwOi8vd3d3LnBlcmtpbmVsbWVyLmNvbS9DTVNSZXNvdXJjZXMvSW1hZ2VzLzQ0LTc0NTMxR0RFX0NsYXJ1czUwMEdDSGFyZHdhcmUucGRmZGQCBQ8WAh8BaGQCEQ9kFgQCAQ8PFgQfAAUgQ2xhcnVzIDUwMCBHQyBJbnN0YWxsYXRpb24gR3VpZGUfAgVWaHR0cDovL3d3dy5wZXJraW5lbG1lci5jb20vQ01TUmVzb3VyY2VzL0ltYWdlcy80NC03NDUzMkdERV9DbGFydXM1MDBHQ0luc3RhbGxhdGlvbi5wZGZkZAIFDxYCHwFoZAIZDxYCHwFoZAIhD2QWBgIBDw8WBB8KaB8BaGRkAgMPFgIfAAVGPGxpPjxzcGFuIGNsYXNzPSJvbiIgc3R5bGU9ImZvbnQtd2VpZ2h0OmJvbGQ7Y29sb3I6IzMzMyI+MTwvc3Bhbj48L2xpPmQCBQ8PFggfAgV8aHR0cDovL3d3dy5wZXJraW5lbG1lci5jb20vc2VhcmNoL1NlYXJjaC5hc3B4P049MTE0Jk50dD1IYW5kbGluZytQcmVjYXV0aW9ucyZObz0yNSZFeHA9b2ZmJnByZXZpb3VzVGV4dD1IYW5kbGluZytQcmVjYXV0aW9ucx8ABQROZXh0HwpoHwFoZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFSmN0bDAwJGN0bDAwJGN0bDAwJHBhZ2VDb250ZW50JGNtc0NvbnRlbnQkZGVmYXVsdCRzZWFyY2hCYXIkY2hrU2VhcmNoV2l0aEluBVRjdGwwMCRjdGwwMCRjdGwwMCRwYWdlQ29udGVudCRjbXNDb250ZW50JGRlZmF1bHQkc2VhcmNoUmVzdWx0cyRTaG93U3VtbWFyaWVzQ2hlY2tCb3i7QHtnVYgXgMapP7n9A+mi+xn7Fg==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=NmCmTxwcxpSDzZ2oDFU76_Yqec3xP2OUgbWCbLlBtfslJtsHwxlD8jAbjEJW9obSjKbRn3xX5uDyAhCG5nMVoBEFUtU1&amp;t=634954420089970230" type="text/javascript"></script>
+
+
+<script type="text/javascript">var _kiq = _kiq || [];</script>
+<script type="text/javascript" src="//s3.amazonaws.com/ki.js/23143/4AR.js" async="true"></script>
+<script type="text/javascript" charset="utf-8">_kiq.push(['identify', 'Anonymous User']);</script>
+<script language="javaScript" type="text/javascript">var s_code = searchEvents("Handling Precautions","18","Guide "); if (s_code) document.write(s_code);</script>
+<script src="/ScriptResource.axd?d=tRp0-gDxNjHroDhCPhKsyHbiZc63ynjD10Fkh7wtjMz3Kl83XlHESzNLOG2xQy5LtD5Ti-IXIe7PVlhzdwBIvcuZsTj8Nhw9dYcNcbuQY8y5FVrOgrwDpsizX_2CksquFYaSrw2&amp;t=252a36c5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=P8tFGF-RVksBeG0JzOPkXkm67IOgsvTrCCERpxKz5PiXwED4FXYZCZqWsBDRt2MQWPlaQxDD1bb0YqZVQHPg_XCFSL4Y6AVh9I6G9TJ5AHjnMiOedkcD5vx2HWE9w0a942ZkBQ2&amp;t=252a36c5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=cMgLER497-aQ_YT-975jXSyihqt_oz1cZmOFw0a7LGrGUUTP0b_lgAnt7UiNrr6qqr5J4mbYdKtOBw6TAOmeMMDrIZtkOsSY_cYqCz1gLEGRcNPssozsaJ80voIPEUHqkGSCQg2&amp;t=252a36c5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=6OPnPW9TSL8GACUCkjfTovNN4lwu8yKCaAbI90Sf_dcCCBG8hzFph120MXnMFUZ9dllKM6D2m52Bb22RmRALCp9jEI0-6cYEaIHVPNtTNADpYTHng2tMoi8geaVflpG1wQcj0A2&amp;t=252a36c5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=qmqaA3_i2LuARsfBausEXjWCLRJ55slOu098UWJLHxe36fTP42VmVpZOz_C65UAd95v8dDr2tDDmDMmO5G0R9LdrUb3QCqM_t4YxaqtORe0oGUK7zv0NgGibVpX5jritXazJFA2&amp;t=252a36c5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Tz4glG7G_ayeNWNFDghs2pcpeW1pTu9uLxj2xj6G1apbSChw-8Bgtt1xC8j3yBjRkGsOFJsUXH6yUtOr_fQUgRJstgNXpy_NxO_kPz5YKaLghttxZHlwTcJSSGip7dYjgfm7teAjUtDcm8YxdaVJ_YU4Kpw1&amp;t=252a36c5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=6nRrlTxMyuI_5C4duVJR88-43y1x2zSEfLEwPshcvbwXnMjLSKFlhxljlxiOJ9dVpHrkW12qUKds2z9ekj_QONN1rNVd8n919vVlA1OsvNUjWZNsIdO2q3rJPJuVIlDMfpGlhpv7oj-7U0SEVUKjyj1cv_s1&amp;t=252a36c5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=l6k7voRHxA5N86d2A-AZFnA0cSSWd3dmytlGwPpFyuwPm_6PMHvWqautx3hGZjAaMgRp_V0aqqwAE6keVidomRRi5DU3aTGP_cyJRd5c12mETrNt27daCWs8NsJ04mLB3BiY9Eu_DOEOZBmozMCrdT9cj6k1&amp;t=252a36c5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=saua8Ktt-xGzvPFnKTxWLQQJLwHfRYZ2rwbqTSR5gKKqZgm7CzELEyODzOdgDmkz1J8190r15D2Z4NwDaQBaBN2XMNXFyMYGDCfjYVNxe6KesHkpHl0SSOq5pfmHPRx3n42ltRkuBOFQpjfRko6ZGTYqHE41&amp;t=252a36c5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=7fOMjRbvgCTTakHH4ZXDA19qpCb0x2meR8gfMcKD6uJ406BkXy6mtyXmXZpb0Ugpqp605EZtp6d_UqrwIzUeIwowFqFjE-xDyhELEmkNCLAsPaofX_h1_TMZEvZcBVNX22iwhr-ecgSJtsK8SiMPLGRNt_41&amp;t=252a36c5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=4GHk-YuwSiIK3p5Ng0uj3T_J1DnbkFX72Bn4NeGRhL7Qu9VVaNgL60pKpo5fW8l8SSIu04A0aJsRcuNTRd1XrNXteZZwVUbonLY_tjeK2Sdz-0KCnduxfMGi_oRu4S0P_RE6sbfLVgD_Gj7IrdCw_DQb4BA1&amp;t=252a36c5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=sgg0olDRE_EoqDxj6DGkN61NdDDut7dpldpTb6OBRJ9YEAM4mKNFafde4hvC9TSXgjBfttJTq3PWb5nx5o5MQZ0hbh8oLT-Pw4Max74mv6tn91Of39sc-xe6SHcg9ll-eWjxH8GEDoFhCl74F7A_piOzR4M1&amp;t=252a36c5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=pjvpK0WH_PoaOouc1BqZSrgxHzOH5Niy1wV5DA2NGdLFttiyjfl5O8QNoHm4_qtLxaNcsYmjiXhcTNhpo_oteNU9O_S-t-FEcmB_6deQayp8jxpoN7CkZ7JXYvdE2XZYaet94frmopNbYs6KEIINKacKnPo1&amp;t=252a36c5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=bSxW0KUXoQjDAWmFmwCVYkFDbayrEqcDXu5R_INYe1XfVtM4qz8Hi34aYbcHDu41zcgIIDeSDtA7q_K6wzpH-uFZyXoXc3GSGoiBoMZETkkEljFqNh-ivxgSd1u8kqslSc-1U48-LLnHXMnU8Bu0dOKsiBM1&amp;t=252a36c5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=L61oc9l-KOP1JqXe_HB1IVTKchIat9oPY2jmNNPLrXSEpJBdJrJ5x0hym51MFgBaPjQ7ayuGv6sFq_C3lhvCqp9qs_bSr-NevAHLTQ-r6qaPVXt1-yA9c3P3ugX9s5RUN_4vt39fNBbGvXt2xGIKQczQRJ81&amp;t=252a36c5" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="Z4oL1cTA_3VKVitGcU1eHG-NVEv6KyRjOSmZHirbvYkOG7upWK8j-4pzsJhHBlg0yESZFFdj_GMZxhW38bj0LL_JRC_vo-Jd8AXlIwEAbb1CTjJ10" />
+</div>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ctl00$ScriptManager1', 'aspnetForm', [], [], [], 90, 'ctl00$ctl00$ctl00');
+//]]>
+</script>
+
+        <script language="javascript" type="text/javascript">
+            function load() {
+                if ((typeof EndRequestHandler == "undefined")) {
+                    var i = 0;
+                }
+                else {
+                    Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestHandler);
+                }
+            }
+        </script>
+        
+    <div id="pageContainer">         
+        
+
+
+<script language="Javascript" type="text/javascript">
+    function showwindow() {
+        //Get url Path
+        var urlpath = document.location.pathname;
+        //Get complete url
+        var url = location.href;
+        var urlsplit = url.split(urlpath, 2);
+
+        //Get query parameter
+        var customurl = urlsplit[1];
+
+        //Replace "&" in query string parameter with "~"
+        //var customurl = customurl.replace("&", "~");
+        //customurl = ApplicationPath + customurl;
+        customurl = urlpath + customurl;
+
+        var userLogginOrNot = document.getElementById('ctl00_ctl00_ctl00_pageContent_headerControl_lblNotLoggedIn');        
+        if (userLogginOrNot != null) {
+            window.open(WebHostName + '/CountrySelection/CountrySelection.aspx?url=' + customurl, 'CountrySelection', 'left=100,top=100,width=700,height=500,toolbar=0,resizable=0');
+        }
+        else {
+            window.open(WebHostName + '/CountrySelection/CountryCustomerCare.aspx?url=' + customurl, 'CountrySelection', 'left=100,top=100,width=700,height=500,toolbar=0,resizable=0');
+        }
+        return false;
+    }
+	</script>
+	
+
+<div id="shoppingCart">
+    <a id="scClose" class="scClose" href="javascript:void(0);">
+        <span id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lblClose">CLOSE TAB</span></a>
+    <div id="scContainer">
+        <div id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_scWelcome" class="col scOne">
+            <p>
+                <span id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lblAccess">To access your online account, first, please</span>
+                <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lnkLogin" title="LOG IN" href="http://shop.perkinelmer.com/My%20Account/SimpleLogin.htm?SiteMode=Corp&amp;RedirectPosting=search%2fSearch.aspx%3fN%3d114%26Ntt%3dHandling%2bPrecautions%26Exp%3doff%26previousText%3dHandling%2bPrecautions">LOG IN</a>
+                .
+            </p>
+            <P id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_pCustomerCare">
+                <img src="/Resources/images/call.png" alt="call icon" />
+                <span id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lblCustomerCareNumber">Customer Care</span>
+                <span id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lblCustomerCareNumberValue"></span>
+            </P>
+        </div>
+        
+        
+        <div id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_dvTools" class="scTwo col">
+            <h3>
+                <span id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lblTools">Tools</span></h3>
+            <ul>
+                <li>
+                    <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lnkCocktails" title="Cocktails, Vials, Microplates" href="/tools/CocktailsAndGuides.aspx?ParaType=CockTail">Cocktails, Vials, Microplates</a></li>
+                <li>
+                    <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lnkCertificate" title="Certificate of Analysis" href="/tools/COASearch.aspx">Certificate of Analysis</a></li>
+                <li>
+                    <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lnkSafetyDataSheets" title="Material Safety Data Sheets" href="/tools/MSDSSearch.aspx">Material Safety Data Sheets</a></li>
+            </ul>
+             <h3>
+                <span id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lblCrossReference">COMPETITOR CROSS REFERENCE</span></h3>
+            <ul>
+                <li>
+                    <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lnkAnalyticalLifeProducts" title="Analytical Science Products" href="/crossreference/Integrated%20Solutions%20Part%20Finder">Analytical Science Products</a></li>
+                <li>
+                    <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lnkLifeScienceProducts" title="Life Science Products" href="/tools/Crossreference.aspx">Life Science Products</a></li>
+           </ul>
+        </div>
+        
+        <div id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_scQuickOrder" class="scThree col">
+            <h3>
+                <span id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lblQuickOrder">Quick Order</span></h3>
+            <ul>
+                <li>
+                    <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lnlProdNumber" title="Shop By Product Number" href="http://shop.perkinelmer.com/Catalog/ShopByProductNum.htm">Shop By Product Number</a></li>
+                <li>
+                    <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lnkMultiplePO" title="Place Multiple POs" href="http://shop.perkinelmer.com/Catalog/MultiplePOShopByProductNo.htm">Place Multiple POs</a></li>
+                <li>
+                    <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lnkStandingOrder" title="Place Standing Order" href="http://shop.perkinelmer.com/Catalog/StandingOrderShopByProductNo.htm">Place Standing Order</a></li>
+            </ul>
+            <h3>
+                <span id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lblQORequestCatalog">Request a Catalog</span></h3>
+            <ul id="catalogList">
+                <li>
+                    <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lnkQOMail" title="By Mail" href="/pages/000/catalog_request.xhtml">By Mail</a></li>
+                <li>
+                    <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lnkQODownload" title="By Download" href="/pages/000/catalog_request.xhtml">By Download</a></li>
+            </ul>
+        </div>
+        
+        <div id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_scShoppingCart" class="scFour col">
+            <h3>
+                <span id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lblShoppingCart">Shopping Cart</span></h3>
+            <p id="scItemCount">
+                <span id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lblItems">ITEMS:</span>
+                <span id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_spnItemCount"></span>
+            </p>
+            <p class="single-button">
+                <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_btnShoppingCart" title="&lt;span>LOG IN&lt;/span>" class="button" href="http://shop.perkinelmer.com/My%20Account/SimpleLogin.htm?SiteMode=Corp&amp;RedirectPosting=search%2fSearch.aspx%3fN%3d114%26Ntt%3dHandling%2bPrecautions%26Exp%3doff%26previousText%3dHandling%2bPrecautions"><span>LOG IN</span></a>
+            </p>
+            <ul>
+                <li>
+                    <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lnkStartShopping" title="Start Shopping" href="http://shop.perkinelmer.com/default.htm">Start Shopping</a></li>
+                <li>
+                    <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lnkFavorites" title="Favorites" href="http://shop.perkinelmer.com/My+Account/ListofFavorite.htm">Favorites</a></li>
+                <li>
+                    <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lnkConsumables" title="Consumables" href="/Catalog/Category/ID/Consumables%20Accessories">Consumables</a></li>
+                <li>
+                    <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lnkOrderStatus" title="Order Status" href="http://shop.perkinelmer.com/Shopping+Cart/Order+List.htm">Order Status</a></li>
+                <li>
+                    <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lnkReagents" title="Reagents" href="/catalog/category/id/Biodiscovery%20Reagents">Reagents</a></li>
+                <li>
+                    <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lnkPromotions" title="Promotions" href="http://shop.perkinelmer.com/Promotions/default.htm">Promotions</a>
+                </li>
+                
+            </ul>
+        </div>
+        
+        
+        <div id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_scTab" class="scTab">
+            <a id="ctl00_ctl00_ctl00_pageContent_headerControl_shoppingCart_lnkShoppingCenter" title="Shopping Center (0)" href="http://shop.perkinelmer.com">Shopping Center (0)</a>
+        </div>
+    </div>
+</div>
+	
+
+<div id="header">
+        
+		<div id="logo">
+			<a id="ctl00_ctl00_ctl00_pageContent_headerControl_lnkHome" href="/default.xhtml"><img src="/Resources/Images/logo.gif" alt="" /></a>
+		</div>
+        
+		<ul id="topNav">		    
+		    <li class="first">
+		        <span id="ctl00_ctl00_ctl00_pageContent_headerControl_Welcome">Welcome</span>
+			    <span id="ctl00_ctl00_ctl00_pageContent_headerControl_lblNotLoggedIn">Guest</span>
+			    			    
+			        <span id="ctl00_ctl00_ctl00_pageContent_headerControl_lblOpenBracket">(</span><span id="ctl00_ctl00_ctl00_pageContent_headerControl_tnLogin"><a id="ctl00_ctl00_ctl00_pageContent_headerControl_lnkLogin" title="Login" href="http://shop.perkinelmer.com/My%20Account/SimpleLogin.htm?SiteMode=Corp&amp;RedirectPosting=search%2fSearch.aspx%3fN%3d114%2b33%2b35%2b185%2b134%2b160%26Ntt%3dHandling%2bPrecautions%26Ne%3d15%26Exp%3doff%26previousText%3dHandling%2bPrecautions">Login</a>/<a id="ctl00_ctl00_ctl00_pageContent_headerControl_lnkRegister" title="Register" href="http://shop.perkinelmer.com/Registration/QuickRegistration.htm?SiteMode=Corp">Register</a></span><span id="ctl00_ctl00_ctl00_pageContent_headerControl_lblCloseBracket">)</span>
+                                
+			</li>
+																		
+			<li id="tnLang" class="last" style="cursor:pointer">
+			    <span id="ctl00_ctl00_ctl00_pageContent_headerControl_lblCountry">USA</span>			    
+			        <span id="ctl00_ctl00_ctl00_pageContent_headerControl_lblOpenBracketForCountry">(</span><a id="ctl00_ctl00_ctl00_pageContent_headerControl_lblChange" title="Change" onclick="javascript:showwindow();">Change</a><span id="ctl00_ctl00_ctl00_pageContent_headerControl_lblCloseBracketForCountry">)</span>		    	
+			</li>		
+		</ul>
+			
+		<div id="scTab2" class="scTab scTab2"><a id="ctl00_ctl00_ctl00_pageContent_headerControl_lnkShoppingCenter" href="http://shop.perkinelmer.com"></a></div>
+		
+<script type="text/javascript">
+    //Selects drop down item based on selection or mouseover
+    function setSearchSelectedText(source, eventArgs) {  
+        var obj = "ctl00_ctl00_ctl00_pageContent_headerControl_siteSearch_txtSearchBox";
+        var submitButton = "ctl00_ctl00_ctl00_pageContent_headerControl_siteSearch_btnSubmit";
+        document.getElementById(obj).value = eventArgs.get_value();
+        OASetAutoSuggestedSearchResult(document.getElementById(obj).value);
+        onMouseClick(submitButton, '#searchBox');
+    }   
+</script>
+
+<div id="mainSearch">
+    <div id="searchBox">
+        <input name="ctl00$ctl00$ctl00$pageContent$headerControl$siteSearch$txtSearchBox" type="text" value="ENTER SEARCH TERM" id="ctl00_ctl00_ctl00_pageContent_headerControl_siteSearch_txtSearchBox" title="ENTER SEARCH TERM" class="searchTerm" onkeydown="CheckKeyCode(event,&#39;ctl00_ctl00_ctl00_pageContent_headerControl_siteSearch_btnSubmit&#39;)" />
+
+                   
+    </div>
+    <input type="submit" name="ctl00$ctl00$ctl00$pageContent$headerControl$siteSearch$btnSubmit" value="" id="ctl00_ctl00_ctl00_pageContent_headerControl_siteSearch_btnSubmit" class="searchButton" />
+</div>		
+		<div id="mainNav" xmlns:sm="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
+  <ul>
+    <li class=""><a href="/default.xhtml" target="_self">Home</a></li>
+    <li class=""><a href="/ourcompany/default.xhtml" target="_self">Our Company</a><div class="mn-sub1">
+        <ul>
+          <li><a href="/ourcompany/aboutus/default.xhtml" target="_self">About Us</a></li>
+          <li><a href="/ourcompany/careers/default.xhtml" target="_self">Careers</a></li>
+          <li><a href="/aboutus/contactus/contactus.aspx" target="_self">Contact Us</a></li>
+          <li><a href="/ourcompany/corporategovernance/default.xhtml" target="_self">Corporate Governance</a></li>
+          <li><a href="/ourcompany/corporatesocialreponsibility/default.xhtml" target="_self">Corporate Social Responsibility</a></li>
+          <li><a href="/ourcompany/innovation/default.xhtml" target="_self">Innovation</a></li>
+          <li><a href="/ourcompany/investors/default.xhtml" target="_self">Investors</a></li>
+          <li><a href="/ourcompany/anniversary/default.xhtml" target="_self">Our History</a></li>
+          <li><a href="/ourcompany/pressroom/default.xhtml" target="_self">Press Room</a></li>
+        </ul>
+      </div>
+    </li>
+    <li class=""><a href="/products/default.xhtml" target="_self">Products</a><div class="mn-sub1">
+        <ul>
+          <li><a href="/products/assays-and-reagents/default.xhtml" target="_self">Assays & Reagents</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/alphatech" target="_self">Alpha Technology</a></li>
+                <li><a href="/catalog/category/id/alphalisa kits for biomarkers and cytokines" target="_self">Biochemical Assays</a></li>
+                <li><a href="/catalog/category/id/blotting reagents" target="_self">Blotting Reagents</a></li>
+                <li><a href="/catalog/category/id/cell lines and membranes" target="_self">Cell Lines, Frozen Cells & Membranes</a></li>
+                <li><a href="/catalog/category/id/assays" target="_self">Cell-Based Assays</a></li>
+                <li><a href="/catalog/category/id/adult health" target="_self">Clinical Diagnostics Reagents</a></li>
+                <li><a href="/catalog/category/id/child health" target="_self">Clinical MSMS Reagents</a></li>
+                <li><a href="/catalog/category/id/cytogenetics" target="_self">Cytogenetics products for IVD</a></li>
+                <li><a href="/catalog/category/id/in%20vivo%20imaging%20reagents" target="_self">In Vivo Imaging Reagents</a></li>
+                <li><a href="/catalog/category/id/labeled nucleotides" target="_self">Labeled Nucleotides</a></li>
+                <li><a href="/catalog/category/id/lance reagents" target="_self">LANCE Assays</a></li>
+                <li><a href="/catalog/category/id/maternal and fetal health monitoring" target="_self">Maternal Fetal Health Reagents</a></li>
+                <li><a href="/catalog/category/id/newborn health" target="_self">Newborn Screening Reagents</a></li>
+                <li><a href="/catalog/category/id/radiochemicals" target="_self">Radiochemical</a></li>
+                <li><a href="/catalog/category/id/radioimaging radiotherapeutics" target="_self">Radioimaging & Radiotherapeutics</a></li>
+                <li><a href="/catalog/category/id/tyramide signal amplification tsa systems" target="_self">TSA</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/products/consumables-accessories/default.xhtml" target="_self">Consumables & Accessories</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/atomic spectroscopy consumables" target="_self">Atomic Spectroscopy</a></li>
+                <li><a href="/pages/060/newbornscreening/default.xhtml" target="_self">Biological Sample Collection</a></li>
+                <li><a href="/catalog/category/id/chromatography consumables and accessories" target="_self">Chromatography Systems</a></li>
+                <li><a href="/catalog/category/id/elemental analysis consumables" target="_self">Elemental Analysis</a></li>
+                <li><a href="/catalog/category/id/food test kits" target="_self">Food Test Kits</a></li>
+                <li><a href="/catalog/category/id/labeling and detection consumables" target="_self">Labeling & Detection</a></li>
+                <li><a href="/catalog/category/id/disposable tips consumables accessories" target="_self">Liquid Handling</a></li>
+                <li><a href="/catalog/category/id/imaging analysis software" target="_self">Live Cell Imaging</a></li>
+                <li><a href="/catalog/category/id/consumables accessories" target="_self">Mass Spectrometers</a></li>
+                <li><a href="/catalog/category/id/microplates" target="_self">Microplates</a></li>
+                <li><a href="/catalog/category/id/consumables accessories" target="_self">Molecular Spectrometers</a></li>
+                <li><a href="/catalog/category/id/newborn health" target="_self">Newborn Screening Systems</a></li>
+                <li><a href="/catalog/category/id/polarimetry consumables" target="_self">Polarimetry</a></li>
+                <li><a href="/catalog/category/id/preclinical%20in%20vivo%20imaging%20accessories" target="_self">Preclinical In Vivo Imaging Accessories</a></li>
+                <li><a href="/catalog/category/id/maternal and fetal health monitoring" target="_self">Prenatal Screening Systems</a></li>
+                <li><a href="/catalog/category/id/sample preparation1" target="_self">Sample Preparation</a></li>
+                <li><a href="/catalog/category/id/liquid scintillation cocktails" target="_self">Scintillation Cocktails & Vials</a></li>
+                <li><a href="/catalog/category/id/thermal analysis consumables" target="_self">Thermal Analysis</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/products/cord-blood/default.xhtml" target="_self">Cord Blood</a><div class="mn-sub2">
+              <ul>
+                <li><a href="http://www.viacord.com/" target="_blank">Cord Blood Banking</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/pages/050/flat-panel-detectors/flat-panel-detectors-products.xhtml" target="_self">Flat Panel X-ray Detectors</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/pages/050/flat-panel-detectors/flat-panel-detectors-products.xhtml" target="_self">a-Si Flat Panel X-ray Detectors</a></li>
+                <li><a href="/pages/060/dexela.xhtml" target="_self">CMOS Flat Panel X-ray Detectors</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/products/instruments/default.xhtml" target="_self">Instruments</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/atomic spectroscopy" target="_self">Atomic Spectroscopy</a></li>
+                <li><a href="/catalog/category/id/lab automation" target="_self">Automation & Liquid Handling</a></li>
+                <li><a href="/catalog/category/id/chromatography" target="_self">Chromatography Systems</a></li>
+                <li><a href="/catalog/category/id/digital%20pathology" target="_self">Digital Pathology</a></li>
+                <li><a href="/catalog/category/id/elemental analysis" target="_self">Elemental Analysis</a></li>
+                <li><a href="/catalog/category/id/high content screening systems" target="_self">High Content Screening</a></li>
+                <li><a href="/catalog/category/id/hyphenated" target="_self">Hyphenated Systems</a></li>
+                <li><a href="/catalog/category/id/labchip%20systems" target="_self">LabChip® Systems</a></li>
+                <li><a href="/catalog/category/id/in%20vivo%20imaging" target="_self">In Vivo Imaging & Analysis</a></li>
+                <li><a href="/catalog/category/id/mass spectrometry gcms and icpms" target="_self">Mass Spectrometers</a></li>
+                <li><a href="/catalog/category/id/microscopy%20imaging%20%20analysis" target="_self">Microscopy Imaging & Analysis</a></li>
+                <li><a href="/technologies/molecular-spectroscopy/default.xhtml" target="_self">Molecular Spectroscopy</a></li>
+                <li><a href="/catalog/category/id/instruments accessories for newborn health" target="_self">Newborn Screening Systems</a></li>
+                <li><a href="/catalog/category/id/optical%20components" target="_self">Optical Components</a></li>
+                <li><a href="/catalog/category/id/plate reader" target="_self">Plate Readers</a></li>
+                <li><a href="/catalog/category/id/instruments accessories for maternal health" target="_self">Prenatal Screening Systems</a></li>
+                <li><a href="/catalog/category/id/radiometric detectors" target="_self">Scintillation & Gamma Counters</a></li>
+                <li><a href="/catalog/category/id/thermal analysis" target="_self">Thermal Analysis</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/products/software-informatics/default.xhtml" target="_self">Software & Informatics</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/analysis software" target="_self">Cellular & Tissue Imaging Analysis</a></li>
+                <li><a href="/catalog/product/id/5016%200010 " target="_self">Cytogenetics</a></li>
+                <li><a href="http://www.cambridgesoft.com/" target="_blank">Informatics</a></li>
+                <li><a href="/catalog/category/id/software%20in%20vivo%20imaging" target="_self">In Vivo Imaging Software</a></li>
+                <li><a href="/catalog/category/id/lims software" target="_self">LIMS & Data Handling</a></li>
+                <li><a href="/catalog/category/id/software for genetic screening" target="_self">Newborn Screening</a></li>
+                <li><a href="/catalog/category/id/software for genetic screening" target="_self">Prenatal Screening</a></li>
+                <li><a href="/catalog/product/id/n8120191" target="_self">Speciation</a></li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li class=""><a href="/technologies/default.xhtml" target="_self">Technologies</a><div class="mn-sub1">
+        <ul>
+          <li><a href="/technologies/assays-and-reagents/default.xhtml" target="_self">Assays & Reagents</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/alphatech" target="_self">Alpha Technology</a></li>
+                <li><a href="/catalog/category/id/assays" target="_self">Assays</a></li>
+                <li><a href="/catalog/category/id/blotting reagents" target="_self">Blotting</a></li>
+                <li><a href="/catalog/category/id/cytogenetics%20products%20for%20research" target="_self">Cytogenetics Products for Research</a></li>
+                <li><a href="/pages/020/gpcrresearch/gpcrdefault.xhtml" target="_self">GPCR</a></li>
+                <li><a href="/catalog/category/id/in%20vivo%20imaging%20reagents" target="_self">In Vivo Imaging Reagents</a></li>
+                <li><a href="/pages/020/kinase/kinaseresearch.xhtml" target="_self">Kinases</a></li>
+                <li><a href="/catalog/category/id/radiochemicals" target="_self">Radiochemicals</a></li>
+                <li><a href="/catalog/category/id/spa" target="_self">SPA Technology</a></li>
+                <li><a href="/catalog/category/id/tyramide signal amplification tsa systems" target="_self">Tyramide Signal Amplification</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/technologies/atomic-spectroscopy/default.xhtml" target="_self">Atomic Spectroscopy</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/atomic absorption aa" target="_self">AA</a></li>
+                <li><a href="/catalog/category/id/icp optical emission icpoes" target="_self">ICP</a></li>
+                <li><a href="/catalog/category/id/icpmass spectrometry" target="_self">ICP-MS</a></li>
+                <li><a href="/catalog/category/id/mercury analysis systems" target="_self">Mercury Analysis Systems</a></li>
+                <li><a href="/catalog/category/id/sample preparation1" target="_self">Sample Preparation</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/technologies/automated-liquid-handling/default.xhtml" target="_self">Automated Liquid Handling</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/lab%20automation" target="_self">Automated Workstations</a></li>
+                <li><a href="/pages/020/applicationslabautomation/drugdiscovery/default.xhtml" target="_self">Drug Discovery</a></li>
+                <li><a href="/pages/020/applicationslabautomation/environmental/default.xhtml" target="_self">Environmental</a></li>
+                <li><a href="/pages/020/applicationslabautomation/foodfeedveterinarymedicine/foodfeedveteriary.xhtml" target="_self">Food, Feed & Veterinary Medicine</a></li>
+                <li><a href="/pages/020/applicationslabautomation/forensics/default.xhtml" target="_self">Forensics</a></li>
+                <li><a href="/pages/020/applicationslabautomation/immunoassays/default.xhtml" target="_self">Immunoassays</a></li>
+                <li><a href="/catalog/category/id/lab automation" target="_self">Instruments</a></li>
+                <li><a href="/catalog/category/id/onpoint integration solutions" target="_self">Integration Solutions</a></li>
+                <li><a href="/pages/020/applicationslabautomation/moleculardiagnostics/default.xhtml" target="_self">Molecular Diagnostics</a></li>
+                <li><a href="/pages/020/applicationslabautomation/oilslubricants/default.xhtml" target="_self">Oils and Lubricants</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/pages/020/cellularimaging/default.xhtml" target="_self">Cellular Imaging &amp; Analysis</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/pages/020/cellularimaging/technologies/3dimageanalysis.xhtml" target="_self">3D Image Analysis</a></li>
+                <li><a href="/pages/020/cellularimaging/technologies/64bitimaging.xhtml" target="_self">64-bit imaging</a></li>
+                <li><a href="/pages/020/cellularimaging/technologies/highcontentscreening.xhtml" target="_self">High Content Screening</a></li>
+                <li><a href="/pages/020/cellularimaging/products/columbus.xhtml" target="_self">Image Data Management</a></li>
+                <li><a href="/pages/020/cellularimaging/technologies/livecellimaging.xhtml" target="_self">Live Cell Imaging</a></li>
+                <li><a href="/catalog/family/id/cellcarriers" target="_self">Microplates</a></li>
+                <li><a href="/pages/020/cellularimaging/technologies/rnainterference.xhtml" target="_self">RNA Interference</a></li>
+                <li><a href="/pages/020/cellularimaging/technologies/spinningdiskconfocal.xhtml" target="_self">Spinning Disk Confocal Microscopy</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/technologies/chromatography/default.xhtml" target="_self">Chromatography</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/liquid chromatography hplc and uhplc" target="_self">HPLC/UHPLC</a></li>
+                <li><a href="/catalog/category/id/gc engineered solutions" target="_self">GC Custom Solutions</a></li>
+                <li><a href="/catalog/category/id/gas chromatographymass spectrometry" target="_self">GC/MS</a></li>
+                <li><a href="/catalog/category/id/gas chromatography" target="_self">GC</a></li>
+                <li><a href="/catalog/category/id/liquid chromatographymass spectrometry lc ms" target="_self">Liquid Chromatography/Mass Spectrometry (LC/MS)</a></li>
+                <li><a href="/catalog/category/id/gas chromatography sampling accessories" target="_self">Sample prep (HS, Purge and trap, Sample accessories</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/technologies/genetic-screening-diagnostics/default.xhtml" target="_self">Clinical Screening &amp; Diagnostics</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/adult health" target="_self">Clinical Diagnostics</a></li>
+                <li><a href="/catalog/category/id/child health" target="_self">Clinical MSMS</a></li>
+                <li><a href="/catalog/category/id/cytogenetics" target="_self">Cytogenetics</a></li>
+                <li><a href="/catalog/category/id/maternal and fetal health monitoring" target="_self">Maternal Fetal Health</a></li>
+                <li><a href="/catalog/category/id/newborn health" target="_self">Newborn Screening</a></li>
+                <li><a href="/catalog/category/id/maternal and fetal health monitoring" target="_self">Prenatal Screening</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/pages/050/flat-panel-detectors/digital-imaging-technologies.xhtml" target="_self">Digital Imaging (FPDs)</a></li>
+          <li><a href="/technologies/in-vivo-imaging-analysis/default.xhtml" target="_self">In Vivo Imaging Technology</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/pages/020/imaging/fluoresencemoleculartomographytechnology.xhtml" target="_self">Fluoresence Molecular Tomography Technology</a></li>
+                <li><a href="/pages/020/imaging/optical-imaging-technology.xhtml" target="_self">Optical Imaging Technology</a></li>
+                <li><a href="/pages/020/imaging/micro-ct-technology.xhtml" target="_self">Micro CT Technology</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="http://www.cambridgesoft.com/" target="_self">Informatics</a></li>
+          <li><a href="/catalog/category/id/mass%20spectrometry%20gcms%20and%20icpms" target="_self">Mass Spectrometry</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/product/id/mz300560" target="_self">Direct Sample Analysis (DSA)</a></li>
+                <li><a href="/catalog/category/id/gas chromatographymass spectrometry" target="_self">Gas ChromatographyMass Spectrometry (GC/MS)</a></li>
+                <li><a href="/catalog/category/id/icpmass spectrometry" target="_self">ICPMass Spectrometry (ICP-MS)</a></li>
+                <li><a href="/catalog/category/id/liquid chromatographymass spectrometry lc ms" target="_self">Liquid ChromatographyMass Spectrometry (LC/MS)</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/technologies/microfluidics.xhtml" target="_self">Microfluidics</a></li>
+          <li><a href="/technologies/molecular-spectroscopy/default.xhtml" target="_self">Molecular Spectroscopy</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/fluorescence spectroscopy" target="_self">Fluorescence</a></li>
+                <li><a href="/catalog/category/id/ftir ftnir spectrometers" target="_self">FTIR & FT-NIR</a></li>
+                <li><a href="/catalog/category/id/uvvis spectrophotometers" target="_self">UV/VIS & UV/VIS/NIR</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/technologies/multilabel-detection/default.xhtml" target="_self">Multimode Detection</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/lab automation" target="_self">Automation & Liquid Handling</a></li>
+                <li><a href="/catalog/category/id/microplates" target="_self">Microplates</a></li>
+                <li><a href="/catalog/category/id/plate reader" target="_self">Plate Readers & Imagers</a></li>
+                <li><a href="/catalog/category/id/radiometric detectors" target="_self">Scintillation & Gamma Counters</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/technologies/radiometric-detection/default.xhtml" target="_self">Radiometric Detection</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/custom radiosynthesis services" target="_self">Custom Synthesis</a></li>
+                <li><a href="/catalog/family/id/wizard2 automatic gamma counter" target="_self">Gamma Counters</a></li>
+                <li><a href="/catalog/category/id/liquid scintillation counting" target="_self">Liquid Scintillation Counters</a></li>
+                <li><a href="/catalog/category/id/microplates and consumables" target="_self">Microplates & Consumables</a></li>
+                <li><a href="/catalog/family/id/cyclone plus phosphor imagers" target="_self">Phosphor Imaging</a></li>
+                <li><a href="/catalog/category/id/radiochemicals" target="_self">Radiochemicals</a></li>
+                <li><a href="/catalog/category/id/radioimaging%20radiotherapeutics" target="_self">Radioimaging & Radiotherapeutics</a></li>
+                <li><a href="/catalog/category/id/spa" target="_self">SPA Technology</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/technologies/thermal-analysis-elemental/default.xhtml" target="_self">Thermal Analysis & Elemental</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/differential scanning calorimetry dsc dta" target="_self">Differential Scanning Calorimetry</a></li>
+                <li><a href="/catalog/category/id/elemental analysis" target="_self">Elemental Analysis</a></li>
+                <li><a href="/catalog/category/id/hyphenated" target="_self">Hyphenated Technology</a></li>
+                <li><a href="/catalog/category/id/mechanical analysis tma dma" target="_self">Mechanical Analysis</a></li>
+                <li><a href="/catalog/family/id/simultaneous%20thermal%20analysis" target="_self">Simultaneous Thermal Analysis</a></li>
+                <li><a href="/catalog/category/id/thermogravimetry tga tgdta" target="_self">Thermogravimetry</a></li>
+                <li><a href="/catalog/category/id/thermal%20analysis%20software" target="_self">Thermal Software</a></li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li class=""><a href="/industries/default.xhtml" target="_self">Industries</a><div class="mn-sub1">
+        <ul>
+          <li><a href="/industries/chemicals/default.xhtml" target="_self">Chemicals</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/lubricants" target="_self">Lubricants</a></li>
+                <li><a href="/pages/010/applications/nanomaterialsreferencelibrary.xhtml" target="_self">Nanomaterials</a></li>
+                <li><a href="/catalog/category/id/polymers and plastics" target="_self">Polymers/Plastics</a></li>
+                <li><a href="/catalog/category/id/semiconductor electronics" target="_self">Semiconductors</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/industries/consumer-products-manufacturing/default.xhtml" target="_self">Consumer Products-Manufacturing</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/family/id/childrens%20product%20safety" target="_self">Children's Products</a></li>
+                <li><a href="/catalog/category/id/consumer product safety" target="_self">Consumer Products</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/industries/energy/default.xhtml" target="_self">Energy</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/biofuels" target="_self">Biofuels Development and Testing</a></li>
+                <li><a href="/catalog/category/id/petrochemical" target="_self">Petrochemicals</a></li>
+                <li><a href="/catalog/category/id/solar energy" target="_self">Solar Energy Development and Testing</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/industries/environmental/default.xhtml" target="_self">Environmental Analysis</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/air%20water%20and%20soil%20testing" target="_self">Air, Water, Soil & Hazardous Waste Analysis</a></li>
+                <li><a href="/catalog/category/id/biomonitoring" target="_self">Biomonitoring</a></li>
+                <li><a href="/catalog/category/id/indrustrial%20hygene" target="_self">Industrial Hygiene</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/industries/food-beverage-nutraceuticals/default.xhtml" target="_self">Food, Beverage & Nutraceuticals</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/authenticity" target="_self">Authenticity & Adulteration</a></li>
+                <li><a href="/catalog/category/id/flavors and fragrances" target="_self">Flavors & Fragrances</a></li>
+                <li><a href="/catalog/category/id/labeling compliance" target="_self">Labeling Compliance</a></li>
+                <li><a href="/catalog/category/id/pesticide residues" target="_self">Pesticide Residues</a></li>
+                <li><a href="/catalog/category/id/quality and contaminants" target="_self">Quality & Contamination</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/industries/forensics/default.xhtml" target="_self">Forensics</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/forensic biology dna" target="_self">Biology (DNA)</a></li>
+                <li><a href="/catalog/category/id/toxicology controlled substances" target="_self">Toxicology & Controlled Substances</a></li>
+                <li><a href="/catalog/category/id/trace evidence" target="_self">Trace Evidence</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/industries/healthcare/default.xhtml" target="_self">Healthcare</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/adult health" target="_self">Clinical Diagnostic Systems</a></li>
+                <li><a href="/catalog/category/id/child health" target="_self">Clinical MSMS Systems</a></li>
+                <li><a href="http://www.viacord.com/" target="_blank">Cord Blood Banking Services</a></li>
+                <li><a href="/catalog/category/id/cytogenetics" target="_self">Cytogenetic Systems</a></li>
+                <li><a href="/catalog/category/id/maternal and fetal health monitoring" target="_self">Maternal Fetal Health Systems</a></li>
+                <li><a href="http://www.ntdlabs.com/protocols/" target="_blank">Maternal Marker Testing Services</a></li>
+                <li><a href="http://www.ntdlabs.com/" target="_blank">Molecular Testing Services</a></li>
+                <li><a href="/catalog/category/id/newborn health" target="_self">Newborn Screening Systems</a></li>
+                <li><a href="http://www.perkinelmergenetics.com/" target="_blank">Newborn Testing Services</a></li>
+                <li><a href="/industries/healthcare/newborntestingservices/default.xhtml" target="_self">PerkinElmer Genetics</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/industries/lifesciencesresearch/default.xhtml" target="_self">Life Sciences</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/industries/lifesciencesresearch/biomarkers/default.xhtml" target="_self">Biomarkers</a></li>
+                <li><a href="/industries/lifesciencesresearch/biotherapeutics/default.xhtml" target="_self">Biotherapeutics</a></li>
+                <li><a href="/industries/lifesciencesresearch/cell-imaging/default.xhtml" target="_self">Cell Imaging</a></li>
+                <li><a href="/industries/lifesciencesresearch/genomic-analysis/default.xhtml" target="_self">Genomic Analysis</a></li>
+                <li><a href="/industries/lifesciencesresearch/imaging-pathology/default.xhtml" target="_self">Imaging and Pathology</a></li>
+                <li><a href="/industries/lifesciencesresearch/targetedsmallmolecule/default.xhtml" target="_self">Targeted Small Molecule</a></li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li class=""><a href="/services/default.xhtml" target="_self">Services</a><div class="mn-sub1">
+        <ul>
+          <li><a href="/catalog/category/id/onpoint%20integration%20solutions" target="_self">Automation Integration</a></li>
+          <li><a href="/services/contractresearch/default.xhtml" target="_self">Contract Research Services</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/catalog/category/id/in%20vitro%20assays" target="_self">In Vitro</a></li>
+                <li><a href="/catalog/category/id/in%20vivo%20assay%20programs" target="_self">In Vivo</a></li>
+                <li><a href="/catalog/category/id/profile%20programs" target="_self">Profile Programs</a></li>
+                <li><a href="/catalog/category/id/alphabetical%20assay%20list" target="_self">Alphabetical Assay List</a></li>
+                <li><a href="/pages/000/dna-analysis/nextgenerationsequencingapplications.xhtml" target="_self">Next Generation Sequencing</a></li>
+                <li><a href="/catalog/category/id/assay%20development%20hts" target="_self">Assay Development/HTS</a></li>
+                <li><a href="/catalog/category/id/drug%20safety%20assessment" target="_self">Drug Safety Assessment</a></li>
+                <li><a href="/catalog/category/id/drug%20combination%20studies" target="_self">Drug Combination Studies</a></li>
+                <li><a href="/catalog/category/id/adme%20pk" target="_self">ADME-PK</a></li>
+                <li><a href="/catalog/category/id/in%20vivo%20programs" target="_self">In Vivo Programs</a></li>
+                <li><a href="/catalog/category/id/histological%20analysis" target="_self">Histological Analysis</a></li>
+                <li><a href="/catalog/category/id/disease%20programs" target="_self">Disease Programs</a></li>
+                <li><a href="/catalog/category/id/drug%20rescue%20repositioning" target="_self">Drug Rescue/Repositioning</a></li>
+                <li><a href="/catalog/category/id/biomarker%20discovery" target="_self">Biomarker Discovery</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/pages/010/onesource/default_onesource.xhtml" target="_self">Instrument Services</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/pages/010/onesource/lab_inst_relocation_services.xhtml" target="_self">Laboratory & Instrument Relocation</a></li>
+                <li><a href="/pages/010/onesource/asset_management_services.xhtml" target="_self">OnSite & Asset Management</a></li>
+                <li><a href="/pages/010/onesource/regulatory_compliance.xhtml" target="_self">Qualification & Regulatory Compliance</a></li>
+                <li><a href="/pages/010/onesource/instrument_srvc_repair.xhtml" target="_self">Service & Repair</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/services/reagent-services/default.xhtml" target="_self">Reagent Services</a><div class="mn-sub2">
+              <ul>
+                <li><a href="/pages/020/services/custom-labeling-and-assay-development.xhtml" target="_self">Custom Labeling and Assay Development</a></li>
+                <li><a href="/catalog/category/id/custom radiosynthesis services" target="_self">Custom Radiosynthesis and Radiolabeling</a></li>
+                <li><a href="/catalog/category/id/onpoint custom labeling services" target="_self">Custom Reagent-labeling</a></li>
+                <li><a href="/catalog/category/id/onpoint custom microplate" target="_self">Microplate Coating and Labeling</a></li>
+                <li><a href="/catalog/category/id/onpoint screening and profiling" target="_self">Screening and Profiling</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/services/testing-diagnostic-services/default.xhtml" target="_self">Screening, Diagnostic Testing and Cord Blood Banking</a><div class="mn-sub2">
+              <ul>
+                <li><a href="http://www.viacord.com/" target="_blank">Cord Blood Banking</a></li>
+                <li><a href="http://www.perkinelmergenetics.com/" target="_blank">Newborn Screening</a></li>
+                <li><a href="http://www.signaturegenomics.com/" target="_blank">Prenatal and Postnatal Diagnostic Testing</a></li>
+                <li><a href="http://www.ntdlabs.com/" target="_blank">Prenatal Screening</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="/services/training/default.xhtml" target="_self">Training</a></li>
+        </ul>
+      </div>
+    </li>
+    <li class=""><a href="/resources/default.xhtml" target="_self">Resources</a><div class="mn-sub1">
+        <ul>
+          <li><a href="http://citations.perkinelmer.com/" target="_self">Citations Library</a></li>
+          <li><a href="/tools/patentlicensesearch.aspx" target="_self">Licensing Opportunities</a></li>
+          <li><a href="/resources/software-downloads.xhtml" target="_self">Software Downloads</a></li>
+          <li><a href="/pages/000/rghs2/default.xhtml" target="_self">Revolutionaries for Global Health Summit</a></li>
+          <li><a href="/resources/technicalresources/default.xhtml" target="_self">Technical Resources</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+</div>	
+</div>
+
+<script type='text/javascript'>var WebHostName  = 'http://www.perkinelmer.com';var ApplicationPath  = '/search/Search.aspx?N=114+33+35+185+134+160&Ntt=Handling+Precautions&Ne=15&Exp=off&previousText=Handling+Precautions';</script>
+           
+
+
+    
+
+
+    <div id="contentArea" class="twoCol">
+<div id="contentHeader">
+			
+			<div class="breadCrumbHolder module">
+                <div id="breadCrumb1" class="breadCrumb module">
+					<ul>
+						
+					</ul>
+				</div>
+			</div>
+			
+		</div>        
+		<div id="left" class="col refineSearch">
+            <div id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchLeftNav_dvLeftSearchSectionCI" style="display: none;">
+    <table>
+        <tr>
+            <td>
+                <span>
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchLeftNav_lnkPerkinElmerHome" title="Home">Home</a>
+                    <p>
+                        &gt;</p>
+                    &nbsp;<a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchLeftNav_lnkCellularImaging" title="Cellular Imaging &amp;amp; Analysis">Cellular Imaging &amp; Analysis</a>
+                </span>
+            </td>
+        </tr>
+    </table>
+</div>
+<div id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchLeftNav_leftSearchSection" style="display: block;">
+    <h3 style="color: #00A1DE">
+        <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchLeftNav_lblHeading">Refine your results</span></h3>
+    <ul class="refine1">
+        <li>
+            <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchLeftNav_lnkRefinementAll" href="javascript:__doPostBack(&#39;ctl00$ctl00$ctl00$pageContent$cmsContent$default$searchLeftNav$lnkRefinementAll&#39;,&#39;&#39;)" style="color:#6A4061;">All (48)</a>
+            </li>
+        <li>
+            
+                
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchLeftNav_rptMainFacet_ctl01_lblFacet">Products & Services (1)</span>
+                    <ul class="refine2">
+                        
+                                <li>
+                                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchLeftNav_rptMainFacet_ctl01_rptRefinement_ctl00_lnkRefinement" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$ctl00$pageContent$cmsContent$default$searchLeftNav$rptMainFacet$ctl01$rptRefinement$ctl00$lnkRefinement&quot;, &quot;&quot;, false, &quot;&quot;, &quot;http://www.perkinelmer.com/search/Search.aspx?N=114+33+35+185+134+11&amp;Ntt=Handling+Precautions&amp;Ne=9&amp;Exp=off&amp;previousText=Handling+Precautions&quot;, false, true))">Reagents (1)</a></li>
+                            
+                    </ul>
+                
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchLeftNav_rptMainFacet_ctl02_lblFacet">Technical Library (55)</span>
+                    <ul class="refine2">
+                        
+                                <li>
+                                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchLeftNav_rptMainFacet_ctl02_rptRefinement_ctl00_lnkRefinement" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$ctl00$pageContent$cmsContent$default$searchLeftNav$rptMainFacet$ctl02$rptRefinement$ctl00$lnkRefinement&quot;, &quot;&quot;, false, &quot;&quot;, &quot;http://www.perkinelmer.com/search/Search.aspx?N=114+33+35+185+134+16&amp;Ntt=Handling+Precautions&amp;Ne=15&amp;Exp=off&amp;previousText=Handling+Precautions&quot;, false, true))">Application Note (1)</a></li>
+                            
+                                <li>
+                                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchLeftNav_rptMainFacet_ctl02_rptRefinement_ctl01_lnkRefinement" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$ctl00$pageContent$cmsContent$default$searchLeftNav$rptMainFacet$ctl02$rptRefinement$ctl01$lnkRefinement&quot;, &quot;&quot;, false, &quot;&quot;, &quot;http://www.perkinelmer.com/search/Search.aspx?N=114+33+35+185+134+160&amp;Ntt=Handling+Precautions&amp;Ne=15&amp;Exp=off&amp;previousText=Handling+Precautions&quot;, false, true))" style="color:Gray;">Guide (18)</a></li>
+                            
+                                <li>
+                                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchLeftNav_rptMainFacet_ctl02_rptRefinement_ctl02_lnkRefinement" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$ctl00$pageContent$cmsContent$default$searchLeftNav$rptMainFacet$ctl02$rptRefinement$ctl02$lnkRefinement&quot;, &quot;&quot;, false, &quot;&quot;, &quot;http://www.perkinelmer.com/search/Search.aspx?N=114+33+35+185+134+20&amp;Ntt=Handling+Precautions&amp;Ne=15&amp;Exp=off&amp;previousText=Handling+Precautions&quot;, false, true))">Manual (27)</a></li>
+                            
+                                <li>
+                                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchLeftNav_rptMainFacet_ctl02_rptRefinement_ctl03_lnkRefinement" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$ctl00$pageContent$cmsContent$default$searchLeftNav$rptMainFacet$ctl02$rptRefinement$ctl03$lnkRefinement&quot;, &quot;&quot;, false, &quot;&quot;, &quot;http://www.perkinelmer.com/search/Search.aspx?N=114+33+35+185+134+137&amp;Ntt=Handling+Precautions&amp;Ne=15&amp;Exp=off&amp;previousText=Handling+Precautions&quot;, false, true))">Technical Note (3)</a></li>
+                            
+                                <li>
+                                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchLeftNav_rptMainFacet_ctl02_rptRefinement_ctl04_lnkRefinement" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$ctl00$pageContent$cmsContent$default$searchLeftNav$rptMainFacet$ctl02$rptRefinement$ctl04$lnkRefinement&quot;, &quot;&quot;, false, &quot;&quot;, &quot;http://www.perkinelmer.com/search/Search.aspx?N=114+33+35+185+134+213&amp;Ntt=Handling+Precautions&amp;Ne=15&amp;Exp=off&amp;previousText=Handling+Precautions&quot;, false, true))">Technical Wiki (6)</a></li>
+                            
+                    </ul>
+                
+        </li>
+    </ul>
+</div>
+
+                                     
+        </div>       
+        
+        <div id="center" class="col">
+            <div id="content">
+                
+    <script type="text/javascript">
+        function addTracker() {
+           // pageTracker._trackEvent('Print', 'Click', 'Printed');
+            _gaq.push(['_trackEvent', 'PrintButton', 'Click', 'Print']);
+        }
+    
+    </script>
+<div id="utilityNav">
+    <ul>
+        <li id="un-print"><a href="javascript:window.print();" onclick="addTracker();">
+            <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_shareAndPrint_lblPrint">PRINT</span>
+        </a></li>
+        <li id="un-share">            
+            <span class='st_sharethis' st_title = 'Search Results | PerkinElmer' displayText='SHARE'></span><script type='text/javascript'>var switchTo5x=true;</script><script type='text/javascript' src='http://w.sharethis.com/button/buttons.js'></script><script type='text/javascript'>stLight.options({publisher: 'c2aa1bea-0af4-42ea-827e-282aa30054cb',onhover:false, type:'website', embeds:true, tracking:'google'}); </script>
+        </li>
+    </ul>
+</div>
+
+                <h2>
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_lblSearchHeading">Search Results</span></h2>
+                    
+                <div class="searchFilter">
+                    <input id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchBar_chkSearchWithIn" type="checkbox" name="ctl00$ctl00$ctl00$pageContent$cmsContent$default$searchBar$chkSearchWithIn" /><label for="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchBar_chkSearchWithIn">Search within the results</label>
+
+<script type="text/javascript">
+    //Selects drop down item based on selection or mouseover
+    function setSearchSelectedText2(source, eventArgs) {
+        var obj = "ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchBar_txtSearchNtt";
+        var submitButton = "ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchBar_btnSubmit";
+        document.getElementById(obj).value = eventArgs.get_value();
+        //Set Omniture Analytics variable for selected Auto Suggested Search Text
+        OASetAutoSuggestedSearchResult(document.getElementById(obj).value);
+        onMouseClick(submitButton, '.searchBox');
+    }
+   
+</script>
+
+<div class="searchBoxContainer">
+    <div class="searchBox">
+        <div class="autosuggest_form">
+            <input name="ctl00$ctl00$ctl00$pageContent$cmsContent$default$searchBar$txtSearchNtt" type="text" value="SEARCH AGAIN" id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchBar_txtSearchNtt" title="SEARCH AGAIN" class="searchTerm" onkeydown="CheckKeyCode(event,&#39;ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchBar_btnSubmit&#39;)" onclick="javascript:return RemoveText(&#39;SEARCH AGAIN&#39;,&#39;ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchBar_txtSearchNtt&#39;)" onblur="javascript:return InsertText(&#39;SEARCH AGAIN&#39;,&#39;ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchBar_txtSearchNtt&#39;)" />
+            
+            
+            
+            <input type="submit" name="ctl00$ctl00$ctl00$pageContent$cmsContent$default$searchBar$btnSubmit" value="" id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchBar_btnSubmit" class="searchButton" />
+        </div>
+   </div>
+</div>
+
+
+
+
+
+                    <ul>
+                        <li>
+                            <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_lnkAdvanceSearch" title="Advanced Search" href="AdvancedSearch.aspx?N=0">Advanced Search</a>|</li>
+                        <li><a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_lnkSearchHelp" href="/Search/SearchHelp.xhtml"><span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_lblSearchTips">Search Help</span></a></li>
+                    </ul>
+                </div>
+                <div class="searchResult">
+                    
+<script language="javascript" type="text/javascript">
+    var PKI = { AJAX: Object };
+    var StrHttp = "http://";
+    var SoapEnvelopeStart = "<?xml version=\"1.0\" encoding=\"utf-8\"?>";
+    SoapEnvelopeStart += "<soap:Envelope xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\">";
+    SoapEnvelopeStart += "<soap:Body>";
+
+    var SoapEnvelopeEnd = "</soap:Body>";
+    SoapEnvelopeEnd += "</soap:Envelope>";
+
+
+    PKI.AJAX = function () {
+
+        var nameSpace = "http://tempuri.org/";
+
+        //private method for returning an ajax enabled object specific to a browser
+        var ajaxObject = function () {
+            try { return new XMLHttpRequest(); } catch (ex) { };
+            try { return new ActiveXObject("Microsoft.XMLHTTP"); } catch (ex) { };
+        } //end ajaxObject()
+
+        /// ajax.callPage("myPage.html", ajaxCallback); //call myPage.html and pass the contents to ajaxCallback.</example>
+        this.callPage = function (url, callbackFunction, preProcessCallBackHandler, postProcessCallBackHandler, processCall, method, args, async) {
+            try {
+                var xmlHttp = ajaxObject();
+
+                xmlHttp.onreadystatechange = function () {
+                    if (xmlHttp.readyState == 4 || xmlHttp.readyState == "complete") {
+                        callbackFunction(xmlHttp.responseText);
+                        postProcessCallBackHandler(processCall, xmlHttp.responseText);
+                    }
+                };
+
+                if (preProcessCallBackHandler) {
+                    preProcessCallBackHandler(processCall);
+                }
+
+                if (!method) method = "GET";
+                if (!args) args = null;
+                if (async == null) async = true;
+
+                xmlHttp.open(method, url, async);
+
+                if (method == "POST")
+                    xmlHttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+
+                xmlHttp.send(args);
+            }
+            catch (ex) {
+                this.onError(ex);
+            } //end tc
+        } //end callPage()
+    }
+</script>
+<script language="javascript" type="text/javascript">
+    function ShowHideSummariesCorp(showChkBox) {
+
+        var obj
+        // get all spans
+        obj = document.getElementsByTagName('div')
+
+        // run through them
+        for (var i = 0; i < obj.length; i++) {
+            // if it has a class of ENESummary
+            if (/alternateItemSummary/.test(obj[i].className) || /itemSummary/.test(obj[i].className)) {
+                // Show/Hide
+                if (showChkBox.checked) {
+                    obj[i].style.display = '';
+                }
+                else {
+                    obj[i].style.display = 'none';
+                }
+            }
+        }
+
+        //This will update the querystring parameters after selections have been made   
+        updateUrlAfterChange(showChkBox, "Exp");
+    }
+
+    function updateUrlAfterChange(cb, paramName) {
+        var newQueryString;
+        var hrefValue = location.href;
+
+        var newResult = new String();
+        newResult = hrefValue.substring(hrefValue.toLowerCase().lastIndexOf('search.aspx') + 11, hrefValue.length);
+
+        var page = new PageQuery(newResult);
+
+        if (cb.checked) {
+            newQueryString = unescape(page.rebuildUrlWithNewParam(paramName, "On"));
+        }
+        else {
+            newQueryString = unescape(page.rebuildUrlWithNewParam(paramName, "Off"));
+        }
+
+        //This will cause the browser to navigate to the given querystring
+        window.location = hrefValue.substring(0, hrefValue.toLowerCase().lastIndexOf('search.aspx?') + 11) + newQueryString; //"http://"+document.getElementById("ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_hdnDomain").value+ "/search/Search"+newQueryString;
+    }
+
+    function PageQuery(q) {
+
+        if (q.length > 1)
+            this.q = q.substring(1, q.length);
+        else this.q = null;
+        this.keyValuePairs = new Array();
+
+        if (q) {
+            for (var i = 0; i < this.q.split("&").length; i++) {
+                this.keyValuePairs[i] = this.q.split("&")[i];
+            }
+        }
+
+        this.getKeyValuePairs = function () {
+            return this.keyValuePairs;
+        }
+        this.getValue = function (s) {
+            for (var j = 0; j < this.keyValuePairs.length; j++) {
+                if (this.keyValuePairs[j].split("=")[0] == s)
+                    return this.keyValuePairs[j].split("=")[1];
+            }
+            return false;
+        }
+
+        this.getParameters = function () {
+            var a = new Array(this.getLength());
+            for (var j = 0; j < this.keyValuePairs.length; j++) {
+                a[j] = this.keyValuePairs[j].split("=")[0];
+            }
+
+            return a;
+        }
+
+        this.getLength = function () {
+            return this.keyValuePairs.length;
+        }
+        // Rebuild the queryString with the new queryParam and queryValue provided	 
+        this.rebuildUrlWithNewParam = function (queryParam, queryValue) {
+            var newQueryString = "?";
+            for (var j = 0; j < this.keyValuePairs.length; j++) {
+                if (this.keyValuePairs[j].split("=")[0] != queryParam) {
+                    newQueryString += this.keyValuePairs[j].split("=")[0] + "=" + this.keyValuePairs[j].split("=")[1] + "&";
+                }
+            }
+            newQueryString += queryParam + "=" + queryValue;
+
+            return newQueryString;
+        }
+    }
+
+    function SendRequest(msgControlId, qty, ProductNumber) {
+
+        var qty = document.getElementById(qty).value;
+        var productNumber = document.getElementById(ProductNumber).value;
+
+        processOut.PageUrl = '/search/SearchCallBack.aspx?' + 'QTY=' + qty + '&PID=' + productNumber;
+        processOut.ControlId = msgControlId;
+        ajax.callPage(processOut.PageUrl, ajaxCallback, AddToCart_PreCallBack, AddToCart_PostCallBack, processOut);
+        // Send data to Omniture analytics - Functions Declared in /js/analytics/s_code_custom_events.js
+        OAAddToCart(productNumber);
+        // Added GA Extensions WWW - Custom Variable and Events implementation
+        if (_gaq.push != null) {
+            _gaq.push(['_trackEvent', 'ShoppingCart', 'AddtoCart', 'UsedSearchResultsPage']);
+        }
+        return false;
+    }
+
+    function RedirectToLoginPage(redirecturl) {
+        window.location.href = redirecturl;
+        return false;
+    }
+
+    function AjaxProcessCall() {
+        this.PageUrl = '';
+        this.CallBackHandler = null;
+        this.ImageUrlDuringCallBack = '';
+        this.ControlId = '';
+        this.TextDuringCallBack = '';
+    }
+
+    function ajaxCallback(content, processCall) {
+        //           document.getElementById(processOut.ControlId).innerHTML=content;
+    }
+
+    function ajaxError() {
+        //alert the error
+    }
+
+    function AddToCart_PreCallBack(processCall) {
+        var messageHtml = '<img src="' + processCall.ImageUrlDuringCallBack + '" border="0" align="left" /> ' + processCall.TextDuringCallBack;
+        document.getElementById(processOut.ControlId).innerHTML = messageHtml;
+    }
+
+    function AddToCart_PostCallBack(processCall, content) {
+        document.getElementById(processOut.ControlId).innerHTML = content;
+    }
+
+    /// Added for Search Improvement Tracking
+
+
+
+</script>
+<script language="javascript" type="text/javascript">
+
+    var ajax = new PKI.AJAX();
+    ajax.onErrror = ajaxError;
+
+    var processOut = new AjaxProcessCall();
+    processOut.ImageUrlDuringCallBack = '/Resources/images/timer.gif';
+    processOut.TextDuringCallBack = 'Adding to cart...';
+
+</script>
+<!-- BEGIN search results content -->
+
+<p>
+    
+</p>
+<div class="searchCriteria">
+    
+<h3>You Searched For:&nbsp;&nbsp;<span>Handling Precautions</span><br/>Within:&nbsp;&nbsp;<span>Guide</span><a href='http://www.perkinelmer.com/search/Search.aspx?N=0&Ntt=Handling+Precautions&Exp=off&previousText=Handling+Precautions'> (remove)</a></h3>
+
+
+    <br />
+    <ul>
+        <li>
+            </li>
+        <li>
+            <input id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_ShowSummariesCheckBox" type="checkbox" name="ctl00$ctl00$ctl00$pageContent$cmsContent$default$searchResults$ShowSummariesCheckBox" onclick="ShowHideSummariesCorp(this);" /><label for="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_ShowSummariesCheckBox">Show Summaries</label></li>
+    </ul>
+</div>
+<div class="searchPagination">
+    <p>
+        <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_lblResultTotals">1 - 18 of 18 results</span>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    </p>
+    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_lblNoResults"></span>
+    
+<ul>
+    <li>
+        </li>
+    <li><span class="on" style="font-weight:bold;color:#333">1</span></li>
+    <li>
+        </li>
+</ul>
+
+</div>
+
+<!-- BEGIN Tabs Body Content -->
+<ul class="searchItem">
+    
+            <li>
+                <div class="searcContent">
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl00_lnkResult" title="Carbon-14 Handling Precautions" href="http://www.perkinelmer.com/CMSResources/Images/44-130686GDE_Carbon_14_FINAL.pdf">Carbon-14 Handling Precautions</a>
+                    
+                    
+                </div>
+                <p class="category">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl00_PKILblCategory">[Guide]</span></p>
+                <p class="fileType">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl00_PKIFileType"> [PDF 102K]</span></p>
+            </li>
+        
+            <li>
+                <div class="searcContent">
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl01_lnkResult" title="Chromium-51 Handling Precautions" href="http://www.perkinelmer.com/CMSResources/Images/44-130687GDE_Chromium_51_FINAL.pdf">Chromium-51 Handling Precautions</a>
+                    
+                    
+                </div>
+                <p class="category">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl01_PKILblCategory">[Guide]</span></p>
+                <p class="fileType">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl01_PKIFileType"> [PDF 107K]</span></p>
+            </li>
+        
+            <li>
+                <div class="searcContent">
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl02_lnkResult" title="Tritium Handling Precautions" href="http://www.perkinelmer.com/CMSResources/Images/44-73408GDE_TritiumHandlingPrecautions.pdf">Tritium Handling Precautions</a>
+                    
+                    
+                </div>
+                <p class="category">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl02_PKILblCategory">[Guide]</span></p>
+                <p class="fileType">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl02_PKIFileType"> [PDF 560K]</span></p>
+            </li>
+        
+            <li>
+                <div class="searcContent">
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl03_lnkResult" title="Rubidium-86 Handling Precautions" href="http://www.perkinelmer.com/CMSResources/Images/44-73997TCH_Rubidium86.pdf">Rubidium-86 Handling Precautions</a>
+                    
+                    
+                </div>
+                <p class="category">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl03_PKILblCategory">[Guide]</span></p>
+                <p class="fileType">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl03_PKIFileType"> [PDF 560K]</span></p>
+            </li>
+        
+            <li>
+                <div class="searcContent">
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl04_lnkResult" title="Iodine-131 Handling Precautions" href="http://www.perkinelmer.com/CMSResources/Images/44-73920TCH_Iodine131.pdf">Iodine-131 Handling Precautions</a>
+                    
+                    
+                </div>
+                <p class="category">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl04_PKILblCategory">[Guide]</span></p>
+                <p class="fileType">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl04_PKIFileType"> [PDF 560K]</span></p>
+            </li>
+        
+            <li>
+                <div class="searcContent">
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl05_lnkResult" title="Phosphorus-33 Handling Precautions" href="http://www.perkinelmer.com/CMSResources/Images/44-73995TCH_Phosphorus33.pdf">Phosphorus-33 Handling Precautions</a>
+                    
+                    
+                </div>
+                <p class="category">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl05_PKILblCategory">[Guide]</span></p>
+                <p class="fileType">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl05_PKIFileType"> [PDF 558K]</span></p>
+            </li>
+        
+            <li>
+                <div class="searcContent">
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl06_lnkResult" title="Yttrium 90 Safe Handling Guide" href="http://www.perkinelmer.com/CMSResources/Images/44-74001tch_yttrium90.pdf">Yttrium 90 Safe Handling Guide</a>
+                    
+                    
+                </div>
+                <p class="category">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl06_PKILblCategory">[Guide]</span></p>
+                <p class="fileType">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl06_PKIFileType"> [PDF 562K]</span></p>
+            </li>
+        
+            <li>
+                <div class="searcContent">
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl07_lnkResult" title="Iron-59 Handling Precautions" href="http://www.perkinelmer.com/CMSResources/Images/44-73922TCH_Iron59.pdf">Iron-59 Handling Precautions</a>
+                    
+                    
+                </div>
+                <p class="category">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl07_PKILblCategory">[Guide]</span></p>
+                <p class="fileType">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl07_PKIFileType"> [PDF 561K]</span></p>
+            </li>
+        
+            <li>
+                <div class="searcContent">
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl08_lnkResult" title="Sodium-22 Handling Precautions" href="http://www.perkinelmer.com/CMSResources/Images/44-73999TCH_Sodium22.pdf">Sodium-22 Handling Precautions</a>
+                    
+                    
+                </div>
+                <p class="category">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl08_PKILblCategory">[Guide]</span></p>
+                <p class="fileType">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl08_PKIFileType"> [PDF 560K]</span></p>
+            </li>
+        
+            <li>
+                <div class="searcContent">
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl09_lnkResult" title="Iron-55 Handling Precautions" href="http://www.perkinelmer.com/CMSResources/Images/44-73921TCH_Iron55.pdf">Iron-55 Handling Precautions</a>
+                    
+                    
+                </div>
+                <p class="category">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl09_PKILblCategory">[Guide]</span></p>
+                <p class="fileType">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl09_PKIFileType"> [PDF 558K]</span></p>
+            </li>
+        
+            <li>
+                <div class="searcContent">
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl10_lnkResult" title="Iodine-125 Handling Precautions" href="http://www.perkinelmer.com/CMSResources/Images/44-73919TCH_Iodine125.pdf">Iodine-125 Handling Precautions</a>
+                    
+                    
+                </div>
+                <p class="category">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl10_PKILblCategory">[Guide]</span></p>
+                <p class="fileType">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl10_PKIFileType"> [PDF 562K]</span></p>
+            </li>
+        
+            <li>
+                <div class="searcContent">
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl11_lnkResult" title="Sulfur-35 Handling Precautions" href="http://www.perkinelmer.com/CMSResources/Images/44-74000TCH_Sulfur35.pdf">Sulfur-35 Handling Precautions</a>
+                    
+                    
+                </div>
+                <p class="category">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl11_PKILblCategory">[Guide]</span></p>
+                <p class="fileType">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl11_PKIFileType"> [PDF 560K]</span></p>
+            </li>
+        
+            <li>
+                <div class="searcContent">
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl12_lnkResult" title="Calcium-45 Handling Precautions" href="http://www.perkinelmer.com/CMSResources/Images/44-73907TCH_Calcium45.pdf">Calcium-45 Handling Precautions</a>
+                    
+                    
+                </div>
+                <p class="category">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl12_PKILblCategory">[Guide]</span></p>
+                <p class="fileType">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl12_PKIFileType"> [PDF 558K]</span></p>
+            </li>
+        
+            <li>
+                <div class="searcContent">
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl13_lnkResult" title="Phosphorus-32 Handling Precautions" href="http://www.perkinelmer.com/CMSResources/Images/44-73994TCH_Phosphorus32.pdf">Phosphorus-32 Handling Precautions</a>
+                    
+                    
+                </div>
+                <p class="category">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl13_PKILblCategory">[Guide]</span></p>
+                <p class="fileType">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl13_PKIFileType"> [PDF 562K]</span></p>
+            </li>
+        
+            <li>
+                <div class="searcContent">
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl14_lnkResult" title="007027C_01 GDE Lutetium.indd" href="http://www.perkinelmer.com/CMSResources/Images/44-73951tch_lutetium177.pdf">007027C_01 GDE Lutetium.indd</a>
+                    
+                    
+                </div>
+                <p class="category">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl14_PKILblCategory">[Guide]</span></p>
+                <p class="fileType">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl14_PKIFileType"> [PDF 558K]</span></p>
+            </li>
+        
+            <li>
+                <div class="searcContent">
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl15_lnkResult" title="Manganese-54 Handling Precautions" href="http://www.perkinelmer.com/CMSResources/Images/44-73952TCH_Manganese54.pdf">Manganese-54 Handling Precautions</a>
+                    
+                    
+                </div>
+                <p class="category">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl15_PKILblCategory">[Guide]</span></p>
+                <p class="fileType">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl15_PKIFileType"> [PDF 560K]</span></p>
+            </li>
+        
+            <li>
+                <div class="searcContent">
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl16_lnkResult" title="Clarus 500 GC Hardware Guide" href="http://www.perkinelmer.com/CMSResources/Images/44-74531GDE_Clarus500GCHardware.pdf">Clarus 500 GC Hardware Guide</a>
+                    
+                    
+                </div>
+                <p class="category">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl16_PKILblCategory">[Guide]</span></p>
+                <p class="fileType">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl16_PKIFileType"> [PDF 9231K]</span></p>
+            </li>
+        
+            <li>
+                <div class="searcContent">
+                    <a id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl17_lnkResult" title="Clarus 500 GC Installation Guide" href="http://www.perkinelmer.com/CMSResources/Images/44-74532GDE_Clarus500GCInstallation.pdf">Clarus 500 GC Installation Guide</a>
+                    
+                    
+                </div>
+                <p class="category">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl17_PKILblCategory">[Guide]</span></p>
+                <p class="fileType">
+                    <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_resultsRepeater_ctl17_PKIFileType"> [PDF 1872K]</span></p>
+            </li>
+        
+</ul>
+<table id="Addtocarttable" visible="false">
+    <tr>
+        <td>
+            <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_AddToCartMessage1"></span>
+        </td>
+        <td>
+            <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_Migrated_validationMessage"></span>
+        </td>
+    </tr>
+</table>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="sortable">
+    <tbody>
+        
+    </tbody>
+</table>
+<div class="searchPagination">
+    <p>
+        <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_lblResultTotalsBottom">1 - 18 of 18 results</span>
+        <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_lblNoResultsBottom"></span>
+        
+<ul>
+    <li>
+        </li>
+    <li><span class="on" style="font-weight:bold;color:#333">1</span></li>
+    <li>
+        </li>
+</ul>
+
+</div>
+
+<div id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_pnlPopup" class="updateProgress" style="display: none">
+	
+    <div align="center" style="margin-top: 13px;">
+        <img src="/Resources/images/timer.gif" alt="" />
+        <span id="ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_lblProcess" class="updateProgressMessage">Processing. Please wait ...</span></div>
+
+</div>
+
+                </div>
+            </div>
+        </div>
+        <div id='cs-cfg' style='display: none'><dl class='cs-cfg'><dt>retailerId</dt><dd>6cea5329</dd><dt>debugOn</dt><dd>false</dd><dt>view</dt><dd><dl><dt>searchText</dt><dd>Handling Precautions</dd></dl></dd></dl></div>
+
+    </div>
+ 
+
+
+	    
+<div id="footer">
+    <div id="fRecent">
+		
+	</div>
+	
+	
+	
+	<div id="copyright">
+		<p><span id="ctl00_ctl00_ctl00_pageContent_footerControl_lblCopyRight">Copyright 1998-2013 PerkinElmer Inc. All Rights Reserved.</span></p>
+	</div>
+		
+	<div id="footerNav">
+		<ul>		
+			<li>
+				<a id="ctl00_ctl00_ctl00_pageContent_footerControl_hlnkContactUs" title="Contact Us" href="/AboutUs/ContactUs/ContactUs">Contact Us</a>
+			</li>
+			<li>
+				<a id="ctl00_ctl00_ctl00_pageContent_footerControl_hlnkSitemap" title="Sitemap" href="/Sitemap">Sitemap</a>
+			</li>			
+			<li>
+				<a id="ctl00_ctl00_ctl00_pageContent_footerControl_hlnkTnC" title="Terms and Conditions" href="/OurCompany/AboutUs/Legal/TermsAndConditions/default.xhtml">Terms and Conditions</a>
+			</li>
+			<li>
+			    <a id="ctl00_ctl00_ctl00_pageContent_footerControl_hlnkPrivacy" title="Privacy Policy" href="/OurCompany/AboutUs/Legal/PrivacyPolicy/default.xhtml">Privacy Policy</a>
+			</li>
+			<li>
+			    <a id="ctl00_ctl00_ctl00_pageContent_footerControl_hlnkAboutUs" title="About Us" href="/OurCompany/default.xhtml">About Us</a>
+			</li>
+			<li class="last">
+                <a id="ctl00_ctl00_ctl00_pageContent_footerControl_hlnkFeedback" title="Website Feedback" title="Website Feedback" class="feedback" href="https://perkinelmer.uservoice.com/forums/103639-website-feedback" target="_blank">Website Feedback</a>
+            </li>
+		</ul>
+	</div>
+</div>
+<div class="jqmWindow" id="modalDialogCountrySelector">
+</div>
+    </div>
+
+        <script src="/HttpCombine.ashx?keys=1.2.3.4.5.6&restype=js" type="text/javascript"></script>
+
+        <script src="/HttpCombine.ashx?keys=7.8.9.10.24.25.11.12.22&restype=js" type="text/javascript"></script>
+
+        <script type="text/javascript" charset="utf-8" src="//static.atgsvcs.com/js/atgsvcs.js"></script>
+        <script type="text/javascript" language="javascript" src="/Resources/js/analytics/s_code.js"></script>
+        <script type="text/javascript" language="javascript" src="/Resources/js/analytics/s_code_custom_events.js"></script>
+        
+        
+        <script src="/HttpCombine.ashx?keys=13.14&restype=js" type="text/javascript"></script>
+
+        
+    
+<script type="text/javascript" src="/Resources/js/Analytics/addLinkerEvents.js"></script><script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-111003-70']);_gaq.push(['_setDomainName', 'perkinelmer.com']);_gaq.push(['_setAllowLinker', true]);_gaq.push(['_setCustomVar', 1, 'Visitor Type', 'UnknownCustomer', 1]);_gaq.push(['_setCustomVar', 2, 'Log Status', 'Guest', 2]);_gaq.push (['_addOrganic','so','q']);_gaq.push (['_addOrganic','360','q']);_gaq.push (['_addOrganic','baidu','word']);_gaq.push (['_addOrganic','soso','w']);_gaq.push (['_addOrganic','3721','name']);_gaq.push (['_addOrganic','yodao','q']);_gaq.push (['_addOrganic','vnet','kw']);_gaq.push (['_addOrganic','sogou','query']);var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';_gaq.push(['_require', 'inpage_linkid', pluginUrl]);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {Sys.Extended.UI.ModalPopupBehavior.invokeViaServer('ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchResults_mdlPopup', false); Sys.Application.remove_load(fn);};Sys.Application.add_load(fn);})();Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.AutoCompleteBehavior, {"completionInterval":100,"completionListCssClass":"search_autosuggest_completelist","completionListItemCssClass":"search_autosuggest_listitem","delimiterCharacters":"","highlightedItemCssClass":"search_autoSuggest_selecteditem","id":"AutoSuggestEx","serviceMethod":"GetSearchCompletionList","servicePath":"/webservices/autosuggest.asmx","showOnlyCurrentWordInCompletionListItem":true}, {"itemSelected":setSearchSelectedText}, null, $get("ctl00_ctl00_ctl00_pageContent_headerControl_siteSearch_txtSearchBox"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.AutoCompleteBehavior, {"completionInterval":100,"completionListCssClass":"search_autosuggest_completelist","completionListItemCssClass":"search_autosuggest_listitem","delimiterCharacters":"","highlightedItemCssClass":"search_autoSuggest_selecteditem","id":"AutoSuggestEx2","serviceMethod":"GetSearchCompletionList","servicePath":"/webservices/autosuggest.asmx","showOnlyCurrentWordInCompletionListItem":true}, {"itemSelected":setSearchSelectedText2}, null, $get("ctl00_ctl00_ctl00_pageContent_cmsContent_default_searchBar_txtSearchNtt"));
+});
+//]]>
+</script>
+</form>
+    <div id="ClickTaleDiv" style="display: none;">
+    </div>
+    <script type='text/javascript'>
+        document.write(unescape("%3Cscript%20src='" + (document.location.protocol == 'https:' ? 'https://clicktale.pantherssl.com/' : 'http://s.clicktale.net/') + "WRc5.js'%20type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+        var ClickTaleSSL = 1;
+        if (typeof ClickTale == 'function') ClickTale(49258, 0.21, "www");
+    </script>
+    <script type="text/javascript" charset="utf-8" src="https://cdn3.userzoom.com/uz.js?cuid=A86C40A143F6DF1188490022196C4538"></script>
+    <script type="text/javascript" language="javascript" defer="defer" src="/Resources/js/analytics/iPerceptions.js"></script>
+</body>
+</html>
